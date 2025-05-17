@@ -1,2 +1,1 @@
-Colors by Lunose
-A game made so that I can get more familiar with pygame
+Colors by Lunose - A simple game made so I can get familiar with pygame. 
